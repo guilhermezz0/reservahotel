@@ -45,7 +45,7 @@ src/
 │   ├── HotelCard.vue
 │   ├── HotelFiltro.vue
 │   └── Rodape.vue
-``` 
+```
 
 ## Pré-requisitos
 
@@ -59,8 +59,8 @@ Antes de iniciar, verifique se você possui instalado:
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
-cd 
+git clone <https://github.com/guilhermezz0/reservahotel>
+cd reservahotel-main
 ```
 
 2. Instale as dependências:
