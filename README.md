@@ -14,6 +14,16 @@ O projeto simula uma página de busca de hospedagem, permitindo ao usuário:
 
 A interface foi construída em componentes Vue, com dados estáticos de exemplo para demonstrar o fluxo completo de busca e seleção.
 
+## Integrantes do trabalho
+
+- José Guilherme Pinheiro de Oliveira - 04209154
+- Lohan Batista - 04205805
+- Pedro José Pereira dos Santos - 04207434
+- Manoel Henrique Farias dos Santos - 04205001
+- Asafe Piedade Gonçalves - 04210134
+- Kayck dos Santos Bezerra Bentes - 04163871
+- Pedro Manoel da Silva Maciel - 04206922
+
 ## Funcionalidades
 
 - Busca por cidade;
